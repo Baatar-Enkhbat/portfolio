@@ -16,4 +16,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./orangerat2
-          server-dir: /home/orangerat2/www/
+          server-dir: /home/orangerat2/
